@@ -25,7 +25,7 @@ comments: true
 ## 2. 가상환경  
 이해한 내용을 바탕으로 기재하면 버전관리등 관리 이점이 있고 문제 발생시 그냥 새로운 가상환경을 만들어 쉽게 해결하기에 필요한것 같다. anaconda로 가상환경을 구축했다.  
 [아나콘다 설치 링크](https://www.anaconda.com/products/individual) 또는 터미널에서 저것을 입력하면 설치할 수 있다.  
-- 아나콘다 설치
+- 아나콘다 설치  
 ``` 
 $ wget https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh
 $ bash Anaconda3-2020.02-Linux-x86_64.sh
@@ -49,7 +49,7 @@ $ conda install pandas
 $ conda install seaborn
 $ conda install cmake 
 ```
-## GitHub,Git
+## 3.GitHub,Git
 - **Git : 개발하며 작성한 소스코드 버젼 관리용이**
 - **GitHub : Git을 관리하며 여러사람과 협력용이**   
 
@@ -92,7 +92,8 @@ $ conda install cmake
 
 이제 원격저장소로 아래코드를 사용해서 올리면 된다.
 
-    $ git push origin master 
+    $ git push origin master  
+
 branch가 없으면 그냥 git push만 해도 올라 갈것이다.~~정확히 모름 항상 `origin master`를 까먹어서 `git push` 만했음~~
 
 만약 다른 컴퓨터에서 `github`에 올라온 것을 다시 내려받을려면 아래 코드를 사용하면 된다.
