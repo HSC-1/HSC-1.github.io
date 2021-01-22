@@ -2,7 +2,7 @@
 layout: post
 title:  "0.환경설정"
 date:   2021-01-22
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+excerpt: "ubuntu OS, 가상환경,Github"
 tag:
 - markdown 
 - syntax
