@@ -70,15 +70,17 @@ $ conda install cmake
 ### **디렉토리 관리**
 작업하는 디렉토리에 `$ git init` 을 하면 .git 이 생성된다.
 
-    $ echo "아무내용" >> reame.md
+    $ echo "아무내용" >> readme.md
 
-위의 코드를 하면 reame.md파일생성과 함께 아무내용이라는 내용이 들어간다.
+위의 코드를 하면 readme.md파일생성과 함께 아무내용이라는 내용이 들어간다.
 
 
     $ git status 
 
 위의 코드를 사용하면 변화를 알 수 있다.  
-아래의 코드를 쓰면 readme.md 파일을 잠시 올린다. readme.md 대신 --all를 쓴다면 변화된 모든 것이 올라간다.
+
+---
+아래의 코드를 쓰면 `readme.md` 파일을 잠시 올린다. `readme.md` 대신 --all를 쓴다면 변화된 모든 것이 올라간다.
 
     $ git add readme.md 
 
@@ -99,4 +101,6 @@ branch가 없으면 그냥 git push만 해도 올라 갈것이다.~~정확히 �
 만약 다른 컴퓨터에서 `github`에 올라온 것을 다시 내려받을려면 아래 코드를 사용하면 된다.
 
     $ git clone 원격저장소주소
+---
 
+### 참고 링크
