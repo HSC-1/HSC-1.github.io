@@ -5,10 +5,9 @@ date:   2021-01-22
 excerpt: "ubuntu OS, 가상환경,Github"
 tag:
 - markdown 
-- syntax
-- sample
-- test
-- jekyll
+- ubuntu
+- anaconda
+- Github
 comments: true
 ---
 
