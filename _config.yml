@@ -1,12 +1,12 @@
 # Site
 title:              HSC-1
-bio:                '뭐야이거'
+bio:                '딥린이의 딥린이를 위한 공부정리'
 description:        "github blog"
 reading_time:       true
-words_per_minute:   200
+words_per_minute:   100
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                "https://hsc-1.github.io"
 
