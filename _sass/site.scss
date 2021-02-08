@@ -235,15 +235,15 @@ header .entry-meta {
 	@media #{$small} {
 		width: 90%;
 		padding: 2em 0;
-	  box-shadow: none;
+		box-shadow: none;
 	}
 }
 
 .category_box {
-  position: fixed;
-  top: 8rem;
-  left: 1rem;
-  width: 25%;
+	position: fixed;
+	top: 8rem;
+	left: 1rem;
+	width: 25%;
 	background: $white;
 	color: $color_tuatara;
 	padding: 2em;
