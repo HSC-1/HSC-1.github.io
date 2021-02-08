@@ -233,7 +233,7 @@ header .entry-meta {
 	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
 	@include transition(.5s);
 	@media #{$small} {
-		width: 90%;
+		width: 70%;
 		padding: 2em 0;
 		box-shadow: none;
 	}
