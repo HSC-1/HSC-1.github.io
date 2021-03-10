@@ -34,7 +34,7 @@ $ bash Anaconda3-2020.02-Linux-x86_64.sh
  - 가상환경 생성  
   test를 자기가 만들고 싶은 이름으로 바꾸면 된다. 뒤에 파이썬은 자기가 사용할 버전을 입력하면된다.
 ```terminal
-$ conda -n test python=3.7
+$ conda create -n test python=3.7
 ```
 - 가상환경 활성화 
 ```
