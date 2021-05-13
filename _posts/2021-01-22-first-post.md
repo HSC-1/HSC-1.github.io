@@ -8,7 +8,7 @@ tag:
 - ubuntu
 - anaconda
 - Github
-categories: Aiffel
+categories: Ubuntu
 comments: true
 ---
 
